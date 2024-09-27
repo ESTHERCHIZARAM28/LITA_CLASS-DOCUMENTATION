@@ -8,7 +8,7 @@
 The primary source of data used here is data.sales.cv
 
 ### TOOLS USED
-- Microsoft excel [Download Here](httpp://www.microsoft.com)
+- Microsoft excel [Download Here].(httpp://www.microsoft.com)
    1. For data cleaning
    2. Analysis
    3. for data visualization
