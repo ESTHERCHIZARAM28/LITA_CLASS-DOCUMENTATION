@@ -1,2 +1,8 @@
 # LITA_CLASS-DOCUMENTATION
-This is where I documented my first project while learning data analysis with incubator hub
+
+## PROJECT TITTLE: E COMMERCE SALES ANALYSIS
+
+### PROJECT OVERVIEW
+
+### DATA SOURCES
+The primary source of data used here is data.sales.cv
