@@ -1,6 +1,6 @@
 # LITA_CLASS-DOCUMENTATION
 
-## PROJECT TITTLE: E COMMERCE SALES ANALYSIS
+## PROJECT TITTLE: LITA DATA ANALYSIS TRAINING
 
 [PROJECT OVERVIEW](#project-overview)
 DATA SOURCES
@@ -8,6 +8,7 @@ TOOLS USED
 [DATA ANALYSIS].(#data-analysis).
 
 ### PROJECT OVERVIEW
+This is the documentation of the projects are carried out at the ladies in tech data analysis training.
 
 ---
 
