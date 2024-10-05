@@ -26,6 +26,17 @@ The primary source of data used in the projects are data.sales.cv and this is an
 - GitHub for portfolio building
 - Power BI
 
+----
+
+### DATA ENTRY
+We learnt the following:
+- Data entry
+- Data formatting
+- Data validation.
+
+### EXCEL FUNCTIONS 
+
+
   ---
 
   ### DATA ANALYSIS
