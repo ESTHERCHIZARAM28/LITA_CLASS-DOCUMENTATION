@@ -49,18 +49,18 @@ This analysis is meant to answer the followimg questions:
    - Total revenue generated in each region
    - The highest selling locations
    - Sales performance of each region
+   - Revenue by month
 
 ### DATA ANALYSIS
-Basic lines of codes and queries and some of the DAX expressions used during the analysis;
+Sales categories = IF(J2<=20,"low",IF(J2<=50,"Medium","High"))
 
-```SQL
-SELECT * FROM TABLE
-WHERE CONDITION = TRUE
-```
+##### DATA SUMMARIZATION /VISUALIZATION AND INFERENCES
+##### 1. Revenue By Region
+###### Pivot Table
+
+   
 
 
-
-  ---
 
   ### DATA VISUALIZATION
 
