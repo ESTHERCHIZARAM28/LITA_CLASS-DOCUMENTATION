@@ -59,6 +59,9 @@ Sales categories = IF(J2<=20,"low",IF(J2<=50,"Medium","High"))
 ##### 1. Revenue By Region
 
 ###### Pivot Table
+![image](https://github.com/user-attachments/assets/69c915ea-2976-41e9-9c39-8a4f3634d057)
+
+
 
 
 
