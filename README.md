@@ -1,6 +1,6 @@
 # LITA_CLASS-DOCUMENTATION
 
-## PROJECT TITTLE: E commerce Sales Analysis
+## PROJECT TITTLE: Sales Data Analysis Project
 
 [PROJECT OVERVIEW](#project-overview)
 
@@ -17,8 +17,10 @@
 [DATA VISUALIZATION](#data-visualization)
 
 ### PROJECT OVERVIEW
-This Data analysis Project aims to generate inssight into the sales performance of the E commerce project over the past years. By analysing the various parameters in the data recieved I seek to gather enough insight to make reasonable decisions which then enables me to tell compelling stories around the data from the insight gotten and to know the best performance from the data
-
+This Data analysis Project aims to generate insight into the sales performance, the sales categories; to detemine the rate of the sales in each regions using low, medium and high categories. it is also aimed to determine the following: 
+   -Revenue by the regions, market and model and trade dates.
+   - Region by unit sold
+   - Region by average revenue.
 ---
 
 ### DATA SOURCES
@@ -32,12 +34,6 @@ The primary source of data used in the projects are data.sales.cv and this is an
    2. For Data Analysis
    3. For Data visualization
       
-- SQL - structured Query Language for Quering of data
-  
-- GitHub for portfolio building
-  
-- Power BI
-
 ----
 
 ### DATA CLEANING AND PREPARATIONS
@@ -48,10 +44,11 @@ In the initial phase of the data cleaning and preparation, the following actions
    4. Removing duplicate
 
 ### EXPLORATORY DATA ANALYSIS
-EDA involved the exploratory of the data to answer some questions about the data such as;
-   - What is the overall sales trend?
-   - What product are top sellers?
-   - What are the products on peak sales?
+This analysis is meant to answer the followimg questions:
+   - The average revenue 
+   - Total revenue generated in each region
+   - The highest selling locations
+   - Sales performance of each region
 
 ### DATA ANALYSIS
 Basic lines of codes and queries and some of the DAX expressions used during the analysis;
