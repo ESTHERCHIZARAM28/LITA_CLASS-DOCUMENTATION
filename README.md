@@ -55,8 +55,12 @@ This analysis is meant to answer the followimg questions:
 Sales categories = IF(J2<=20,"low",IF(J2<=50,"Medium","High"))
 
 ##### DATA SUMMARIZATION /VISUALIZATION AND INFERENCES
+
 ##### 1. Revenue By Region
+
 ###### Pivot Table
+
+
 
    
 
