@@ -3,9 +3,18 @@
 ## PROJECT TITTLE: E commerce Sales Analysis
 
 [PROJECT OVERVIEW](#project-overview)
-DATA SOURCES
-TOOLS USED
-[DATA ANALYSIS].(#data-analysis).
+
+[DATA SOURCES](#data-sources)
+
+[TOOLS USED](#tools-used)
+
+[DATA CLEANING AND PREPARATIONS](#data-cleaning-and-preparations)
+
+[EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+
+[DATA ANALYSIS](#data-analysis)
+
+[DATA VISUALIZATION](#data-visualization)
 
 ### PROJECT OVERVIEW
 This Data analysis Project aims to generate inssight into the sales performance of the E commerce project over the past years. By analysing the various parameters in the data recieved I seek to gather enough insight to make reasonable decisions which then enables me to tell compelling stories around the data from the insight gotten and to know the best performance from the data
@@ -56,9 +65,7 @@ WHERE CONDITION = TRUE
 
   ---
 
-  ### DATA ANALYSIS
-  HHHHHHHHHHHHHHHHHH
-  JJJJJJJJJJ
+  ### DATA VISUALIZATION
 
   😄
   |Heading 1|Heading 2|Heading 3|
