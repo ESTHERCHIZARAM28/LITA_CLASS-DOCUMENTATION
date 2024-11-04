@@ -73,13 +73,14 @@ Sales categories = IF(J2<=20,"low",IF(J2<=50,"Medium","High"))
 ##### 1. Filter Chart for 2014
 ![image](https://github.com/user-attachments/assets/9317e60c-2d52-48a5-b88a-42d5296dc76f)
 
-##### 2. Filter Chart for 2014
-
+##### 2. Filter Chart for 2015
+![image](https://github.com/user-attachments/assets/1613f3bc-fafa-437f-9265-daf1b13b95e1)
 
 
 ### INFERENCE 
 1. REGIONAL PERFORMANCE: NorthEast has the high sales performance with the sum of 18.64bn for the year 2014 and 2015.
    North Central has the lowest sales performance for two years with the sum of  6.49bn.
+   
 
 
 
