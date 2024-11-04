@@ -14,6 +14,8 @@
 
 [DATA ANALYSIS](#data-analysis)
 
+[DATA SUMMARIZATION](#data-summarization)
+
 [DATA VISUALIZATION](#data-visualization)
 
 ### PROJECT OVERVIEW
@@ -76,7 +78,7 @@ Sales categories = IF(J2<=20,"low",IF(J2<=50,"Medium","High"))
 
 ----
 
-### VISUALIZATION
+### DATA VISUALIZATION
 ##### 1. Filter Chart for 2014
 ![image](https://github.com/user-attachments/assets/9317e60c-2d52-48a5-b88a-42d5296dc76f)
 
