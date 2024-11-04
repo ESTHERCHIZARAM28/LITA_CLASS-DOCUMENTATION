@@ -18,6 +18,10 @@
 
 [DATA VISUALIZATION](#data-visualization)
 
+[INFERENCE](#inference)
+
+[CONCLUSION](#conclusion)
+
 ### PROJECT OVERVIEW
 This Data analysis Project aims to generate insight into the sales performance, the sales categories; to detemine the rate of the sales in each regions using low, medium and high categories. it is also aimed to determine the following: 
    -Revenue by the regions, market and model and trade dates.
