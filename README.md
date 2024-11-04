@@ -61,12 +61,18 @@ Sales categories = IF(J2<=20,"low",IF(J2<=50,"Medium","High"))
 
 ![image](https://github.com/user-attachments/assets/ba54d1ad-67f1-413f-a88b-a6691e85fa2f)
 
+
 ##### 2. Unit Sold by Region
 
 ![image](https://github.com/user-attachments/assets/ec21a2ba-aeda-425c-9568-7ea246668b62)
 
 ##### 3. Top Ten Stores
 ![image](https://github.com/user-attachments/assets/16382979-3fd1-43e6-a0c1-bb357173b64f)
+
+### VISUALIZATION
+##### 1. Filter Chart for 2014
+![image](https://github.com/user-attachments/assets/9317e60c-2d52-48a5-b88a-42d5296dc76f)
+
 
 ### INFERENCE 
 1. REGIONAL PERFORMANCE: NorthEast has the high sales performance with the sum of 18.64bn for the year 2014 and 2015.
