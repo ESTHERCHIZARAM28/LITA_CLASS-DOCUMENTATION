@@ -100,9 +100,4 @@ Sales categories = IF(J2<=20,"low",IF(J2<=50,"Medium","High"))
 
 
 
-  ### DATA VISUALIZATION
 
-  😄
-  |Heading 1|Heading 2|Heading 3|
-  |---------|---------|---------|
-  |Table1|Table2|Table3|
