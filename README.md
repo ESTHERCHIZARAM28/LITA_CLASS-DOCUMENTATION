@@ -73,6 +73,9 @@ Sales categories = IF(J2<=20,"low",IF(J2<=50,"Medium","High"))
 ##### 1. Filter Chart for 2014
 ![image](https://github.com/user-attachments/assets/9317e60c-2d52-48a5-b88a-42d5296dc76f)
 
+##### 2. Filter Chart for 2014
+
+
 
 ### INFERENCE 
 1. REGIONAL PERFORMANCE: NorthEast has the high sales performance with the sum of 18.64bn for the year 2014 and 2015.
