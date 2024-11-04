@@ -65,7 +65,7 @@ Sales categories = IF(J2<=20,"low",IF(J2<=50,"Medium","High"))
 
 ![image](https://github.com/user-attachments/assets/ec21a2ba-aeda-425c-9568-7ea246668b62)
 
-##### 3. 
+##### 3. Top Ten Stores
 
 
 
