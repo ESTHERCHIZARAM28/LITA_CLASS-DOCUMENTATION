@@ -97,7 +97,7 @@ Sales categories = IF(J2<=20,"low",IF(J2<=50,"Medium","High"))
    The sales performance of North East Region decrease from 12.64bn in 2014 to 6.00bn in 2015. This might be as a result of some market challenges faced by the business in the year 2015.
    This drastical decrease in the North East was evident in the other regions.
 
-2. STORE PERFORMANCE: Using the pivort table to summarize the data, the top ten stores was listed in respect to the revenue. Ankpa Store was the top of list with revenue of 1.71bn, and Askira/Uba Store was the last in the list woth revenue of 909.54m.
+2. STORE PERFORMANCE: Using the pivort table to summarize the data, the top ten stores was listed in respect to the revenue. Ankpa Store was the top of list with revenue of 1.71bn, and Askira/Uba Store was the last in the list with revenue of 909.54m.
 
 ----
 
