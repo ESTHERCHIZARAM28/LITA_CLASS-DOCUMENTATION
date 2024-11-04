@@ -54,11 +54,22 @@ This analysis is meant to answer the followimg questions:
 ### DATA ANALYSIS
 Sales categories = IF(J2<=20,"low",IF(J2<=50,"Medium","High"))
 
-##### DATA SUMMARIZATION /VISUALIZATION AND INFERENCES
+##### DATA SUMMARIZATION
+###### Pivot Table
 
 ##### 1. Revenue By Region
 
-###### Pivot Table
+![image](https://github.com/user-attachments/assets/ba54d1ad-67f1-413f-a88b-a6691e85fa2f)
+
+##### 1. Revenue By UNIT SOLD
+
+
+
+
+
+
+
+
 
 
 
