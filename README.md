@@ -52,7 +52,9 @@ This analysis is meant to answer the followimg questions:
    - Revenue by month
 
 ### DATA ANALYSIS
+```
 Sales categories = IF(J2<=20,"low",IF(J2<=50,"Medium","High"))
+```
 
 ### DATA SUMMARIZATION
 ###### Pivot Table
@@ -66,7 +68,7 @@ Sales categories = IF(J2<=20,"low",IF(J2<=50,"Medium","High"))
 
 ![image](https://github.com/user-attachments/assets/ec21a2ba-aeda-425c-9568-7ea246668b62)
 
-##### 3. Top Ten Stores
+##### 3. Top Ten Stores by Revenue
 ![image](https://github.com/user-attachments/assets/16382979-3fd1-43e6-a0c1-bb357173b64f)
 
 ### VISUALIZATION
