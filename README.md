@@ -18,7 +18,7 @@
 
 [DATA VISUALIZATION](#data-visualization)
 
-[INFERENCE](#inference)
+[INFERENCES](#inferences)
 
 [CONCLUSION](#conclusion)
 
@@ -91,7 +91,7 @@ Sales categories = IF(J2<=20,"low",IF(J2<=50,"Medium","High"))
 
 ----
 
-### INFERENCE 
+### INFERENCES
 1. REGIONAL PERFORMANCE: NorthEast has the high sales performance with the sum of 18.64bn for the year 2014 and 2015.
    North Central has the lowest sales performance for two years with the sum of  6.49bn.
    The sales performance of North East Region decrease from 12.64bn in 2014 to 6.00bn in 2015. This might be as a result of some market challenges faced by the business in the year 2015.
