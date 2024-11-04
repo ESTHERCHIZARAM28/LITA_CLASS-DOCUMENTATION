@@ -61,7 +61,14 @@ Sales categories = IF(J2<=20,"low",IF(J2<=50,"Medium","High"))
 
 ![image](https://github.com/user-attachments/assets/ba54d1ad-67f1-413f-a88b-a6691e85fa2f)
 
-##### 1. Revenue By UNIT SOLD
+##### 2. Unit Sold by Region
+
+![image](https://github.com/user-attachments/assets/ec21a2ba-aeda-425c-9568-7ea246668b62)
+
+##### 3. 
+
+
+
 
 
 
