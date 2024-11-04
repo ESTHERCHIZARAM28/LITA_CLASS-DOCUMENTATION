@@ -54,7 +54,7 @@ This analysis is meant to answer the followimg questions:
 ### DATA ANALYSIS
 Sales categories = IF(J2<=20,"low",IF(J2<=50,"Medium","High"))
 
-##### DATA SUMMARIZATION
+### DATA SUMMARIZATION
 ###### Pivot Table
 
 ##### 1. Revenue By Region
@@ -66,6 +66,13 @@ Sales categories = IF(J2<=20,"low",IF(J2<=50,"Medium","High"))
 ![image](https://github.com/user-attachments/assets/ec21a2ba-aeda-425c-9568-7ea246668b62)
 
 ##### 3. Top Ten Stores
+![image](https://github.com/user-attachments/assets/16382979-3fd1-43e6-a0c1-bb357173b64f)
+
+### INFERENCE 
+1. REGIONAL PERFORMANCE: NorthEast has the high sales performance with the sum of 18.64bn for the year 2014 and 2015.
+   North Central has the lowest sales performance for two years with the sum of  6.49bn.
+
+
 
 
 
